@@ -1,13 +1,3 @@
----
-title: Ultimate Vocal Remover WebUI
-emoji: 🎵
-colorFrom: pink
-colorTo: yellow
-sdk: gradio
-sdk_version: 3.44.2
-app_file: app.py
-pinned: false
-license: mit
----
+### Ultimate Vocal Remover WebUI
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+A Simple Vocal Remover Using Gradio
